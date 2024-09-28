@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kundan Rathore</h1>
 <h3 align="center">A passionate Mern Stack developer from India</h3>
 
-<p align="left"> <a href="https://outlane.co/now/new-shot-programmer-animation/"><img src="https://github-profile-trophy.vercel.app/?username=kundan8889" alt="kundan8889" /></a></p>
+<p align="left"><a href="https://drive.google.com/file/d/1nKQuhC5fmCBNP-3OK16TQC_hhx_Kem8p/view?usp=drive_link"><img src="https://github-profile-trophy.vercel.app/?username=kundan8889" alt="kundan8889" /> </a></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kundan8889" alt="kundan8889" /></a> </p>
 

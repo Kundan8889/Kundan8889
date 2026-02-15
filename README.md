@@ -19,8 +19,8 @@
 ---
 
 ### 🛠 Tech Stack
-**Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap  
-**Backend:** Node.js, Express.js, Spring Boot (basic)  
+**Frontend:** React.js, Next.js,Typescript HTML5, CSS3, Tailwind CSS, Bootstrap  
+**Backend:** Node.js, Express.js, Spring Boot  
 **Databases:** MongoDB, MySQL, PostgreSQL  
 **Tools:** Git, GitHub, Postman, VS Code  
 

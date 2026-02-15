@@ -49,4 +49,4 @@
 ---
 
 📄 **Resume:**  
-👉 [View Resume]([https://drive.google.com/file/d/1J_CxYaGeXSHJD5L6D1KV76sGiSppXvym/view](https://drive.google.com/file/d/1SAKOLdLXdSwJAiYJsg4qc14axPSj4-G0/view?usp=drive_link))
+👉 [View Resume]([[https://drive.google.com/file/d/1J_CxYaGeXSHJD5L6D1KV76sGiSppXvym/view](https://drive.google.com/file/d/1SAKOLdLXdSwJAiYJsg4qc14axPSj4-G0/view?usp=drive_link)](https://drive.google.com/file/d/1SAKOLdLXdSwJAiYJsg4qc14axPSj4-G0/view?usp=drive_link))

@@ -1,52 +1,159 @@
-<h1 align="center">Hi 👋, I'm Kundan Rathore</h1>
-<h3 align="center">Full Stack Developer | MERN Stack</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kundan-rathore-b5261b268/">LinkedIn</a> •
-  <a href="https://github.com/Kundan8889">GitHub</a> •
-  <a href="https://www.leetcode.com/kundan_rathore_25">LeetCode</a> •
-  📧 kundanrathore450@gmail.com
-</p>
+It looks like there was some confusion because an earlier request was about generating an image. Your latest request is about updating the portfolio content based on your CV, so here's a revised version grounded in your resume.
 
 ---
 
-### 🚀 About Me
-- Full Stack Developer focused on **MERN Stack**
-- Strong in **REST APIs, Authentication (JWT), WebSockets**
-- Solved **200+ DSA problems** on LeetCode
-- Actively seeking **Full-Time / Internship / Freelance opportunities**
+# 🚀 About Me
+
+* Full Stack Developer with experience building **Enterprise ERP** and scalable web applications using the **MERN Stack**, **TypeScript**, and **PostgreSQL**. 
+* Strong in **REST APIs**, **JWT Authentication**, **RBAC**, **WebSockets**, and database design with **MongoDB** and **PostgreSQL**. 
+* Solved **200+ DSA problems** and continuously improving problem-solving skills. 
+* Currently learning **Generative AI**, **RAG**, **Agentic AI**, **Multi-Agent Systems**, **LangChain**, **LangGraph**, **MCP**, and **System Design**.
 
 ---
 
-### 🛠 Tech Stack
-**Frontend:** React.js, Next.js,Typescript HTML5, CSS3, Tailwind CSS, Bootstrap  
-**Backend:** Node.js, Express.js, Spring Boot  
-**Databases:** MongoDB, MySQL, PostgreSQL  
-**Tools:** Git, GitHub, Postman, VS Code  
+# 🛠 Tech Stack
+
+### Frontend
+
+* React.js
+* Next.js
+* TypeScript
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Tailwind CSS
+* Bootstrap
+
+### Backend
+
+* Node.js
+* Express.js
+* Spring Boot
+* Flask
+* FastAPI
+* REST APIs
+* Socket.IO
+
+### Databases
+
+* PostgreSQL
+* MongoDB
+* MySQL
+* Prisma ORM
+* Redis (Basics)
+
+### AI & GenAI
+
+* Generative AI
+* Prompt Engineering
+* AI-Powered Features
+* Currently Learning: RAG, LangChain, LangGraph, MCP & Agentic AI
+
+### Tools
+
+* Git
+* GitHub
+* Docker (Basics)
+* Postman
+* Axios
+* VS Code
 
 ---
 
-### 📌 Featured Projects
-🔹 **Chat Application (MERN + WebSockets)**  
-- Real-time chat with media sharing  
-- Auth system reduced failed logins by 70%  
-- Used Socket.io for real-time communication  
+# 💼 Experience
 
-🔹 **Employee Management System**  
-- React + Spring Boot + MySQL  
-- CRUD, filters, secure access  
+### 🚀 Full Stack Developer
 
-🔹 **Personal Finance Tracker**  
-- Expense tracking with visual analytics  
-- Monthly budget planning  
+* Building **Enterprise ERP Applications**
+* Developing scalable React.js frontends and Node.js APIs
+* Designing PostgreSQL databases with Prisma ORM
+* Working in Agile teams with Git workflows and code reviews 
 
 ---
 
-### 🏆 Achievements
-- 🏅 **LeetCode 100 Days Badge** (Top 6.9%)
-- Solved **200+ DSA problems**
+# 📌 Featured Projects
+
+## 🏢 Enterprise ERP System
+
+* Enterprise-grade ERP modules
+* React.js + TypeScript + Node.js + PostgreSQL
+* REST APIs
+* Prisma ORM
+* Modular architecture 
 
 ---
 
-📄 **Resume:**  
-👉 [View Resume]([https://drive.google.com/file/d/1J_CxYaGeXSHJD5L6D1KV76sGiSppXvym/view](https://drive.google.com/file/d/1SAKOLdLXdSwJAiYJsg4qc14axPSj4-G0/view?usp=drive_link)](https://drive.google.com/file/d/1SAKOLdLXdSwJAiYJsg4qc14axPSj4-G0/view?usp=drive_link))
+## 💬 Real-Time Chat Application
+
+* MERN Stack + Socket.IO
+* Real-time messaging
+* Image & video sharing
+* JWT Authentication
+* WebSockets 
+
+---
+
+## 🎓 Learning Management System
+
+* Next.js + Flask + FastAPI
+* Generative AI integration
+* Course management
+* AI-powered learning features 
+
+---
+
+## 👨‍💼 Employee Management System
+
+* React.js
+* Spring Boot
+* MySQL
+* RBAC
+* CRUD Operations
+* REST APIs 
+
+---
+
+## 💰 Personal Finance Assistant
+
+* Expense tracking
+* Budget management
+* Interactive analytics
+* React.js + Node.js + Express.js + Chart.js 
+
+---
+
+# 🧠 Currently Learning
+
+* 🤖 Generative AI
+* 📄 RAG (Retrieval-Augmented Generation)
+* 🤖 Agentic AI
+* 👥 Multi-Agent Systems
+* 🔗 LangChain
+* 🕸️ LangGraph
+* 🔌 MCP (Model Context Protocol)
+* 🏗️ System Design
+* 📈 Advanced DSA
+
+---
+
+# 🏆 Achievements
+
+* 🏅 **LeetCode Top 6.9%**
+* ✅ Solved **200+ DSA Problems**
+* 💻 Hands-on experience building **Enterprise ERP Applications**
+* 🚀 Built multiple production-ready Full Stack projects 
+
+---
+
+# 📬 Let's Connect
+
+📧 **Email:** [Kundanrathore450@gmail.com](mailto:Kundanrathore450@gmail.com)
+
+💼 **LinkedIn:** linkedin.com/in/kundan-rathore
+
+💻 **GitHub:** github.com/Kundan8889
+
+📍 **Bangalore, India**
+
+📄 **Resume:** Download Resume
+

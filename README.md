@@ -1,7 +1,3 @@
-It looks like there was some confusion because an earlier request was about generating an image. Your latest request is about updating the portfolio content based on your CV, so here's a revised version grounded in your resume.
-
----
-
 # 🚀 About Me
 
 * Full Stack Developer with experience building **Enterprise ERP** and scalable web applications using the **MERN Stack**, **TypeScript**, and **PostgreSQL**. 
